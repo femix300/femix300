@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Peter Ajimoti Oluwaseyi</h1>
-<h3 align="center">A passionate backend engineer</h3>
+<h3 align="center">A passionate Backend Software Engineer</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=femix300&label=Profile%20views&color=0e75b6&style=flat" alt="femix300" />
@@ -15,7 +15,7 @@
 
 ## 🔭 Current Focus
 - **Building:** [Merit](https://github.com/femix300/Merit)
-- **Learning:** Django and Express JS
+- **Learning:** Django, Express JS and .Net
 - **Collaborating:** Backend Projects
 
 ## 💬 Expertise
@@ -24,6 +24,7 @@ Ask me about **Python, Flask, MYSQL and MongoDB**
 ## 📫 Connect With Me
 - **Email:** oluwaseyipeter450@gmail.com
 - **Instagram:** [@ajimoti_peter](https://instagram.com/ajimoti_peter)
+- **X/Twitter:** [@Oluwaseyi_88](https://x.com/Oluwaseyi_88).
 
 ## ⚡ Fun Fact
 I love learning
