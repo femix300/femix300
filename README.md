@@ -42,9 +42,9 @@ I love learning and I pay attention to details.
 
 ### 🔹 Backend Technologies & Frameworks
 <div align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
 </div>
 
