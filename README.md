@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=femix300&label=Profile%20views&color=0e75b6&style=flat" alt="femix300" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-tawny.vercel.app/?username=femix300&column=7&margin-w=15&margin-h=15&no-bg=true" alt="femix300" />
-  </a>
-</div>
-
 ---
 
 ## 🔭 Current Focus
