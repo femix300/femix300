@@ -39,6 +39,7 @@ I love learning and I pay attention to details.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
@@ -78,8 +79,8 @@ I love learning and I pay attention to details.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=femix300&layout=compact&theme=dark" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=femix300&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=femix300&layout=compact&theme=dark" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=femix300&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
 <div align="center">
