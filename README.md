@@ -13,7 +13,7 @@
 - **Collaborating:** Backend Projects & Hackathons
 
 ## 💬 Expertise
-Ask me about **Python, Django, MYSQL and MongoDB**
+Ask me about **Building Robust Backend Architectures**
 
 ## 📫 Connect With Me
 - **Email:** oluwaseyipeter450@gmail.com
