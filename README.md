@@ -15,11 +15,11 @@
 
 ## 🔭 Current Focus
 - **Building:** [Merit](https://github.com/femix300/Merit)
-- **Learning:** Django, Express JS and .Net
-- **Collaborating:** Backend Projects
+- **Learning:** Java, Spring Boot and .Net
+- **Collaborating:** Backend Projects & Hackathons
 
 ## 💬 Expertise
-Ask me about **Python, Flask, MYSQL and MongoDB**
+Ask me about **Python, Django, MYSQL and MongoDB**
 
 ## 📫 Connect With Me
 - **Email:** oluwaseyipeter450@gmail.com
