@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Peter Ajimoti Oluwaseyi</h1>
+<h1 align="center">👋 Hi, I'm Peter Ajimoti</h1>
 <h3 align="center">A Certified Backend Software Engineer</h3>
 
 <div align="center">
