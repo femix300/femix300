@@ -16,6 +16,7 @@
 Ask me about **Building Robust Backend Architectures**
 
 ## 📫 Connect With Me
+- **Portfolio:** [peterajimoti.vercel.app](https://peterajimoti.vercel.app)
 - **Email:** oluwaseyipeter450@gmail.com
 - **Instagram:** [@ajimoti_peter](https://instagram.com/ajimoti_peter)
 - **X/Twitter:** [@Oluwaseyi_88](https://x.com/Oluwaseyi_88).
