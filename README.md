@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm Peter Ajimoti</h1>
 <h3 align="center">A Certified Backend Software Engineer</h3>
+<h4 align="center">🌐 <a href="https://peterajimoti.vercel.app">peterajimoti.vercel.app</a></h4>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=femix300&label=Profile%20views&color=0e75b6&style=flat" alt="femix300" />
@@ -16,7 +18,6 @@
 Ask me about **Building Robust Backend Architectures**
 
 ## 📫 Connect With Me
-- **Portfolio:** [peterajimoti.vercel.app](https://peterajimoti.vercel.app)
 - **Email:** oluwaseyipeter450@gmail.com
 - **Instagram:** [@ajimoti_peter](https://instagram.com/ajimoti_peter)
 - **X/Twitter:** [@Oluwaseyi_88](https://x.com/Oluwaseyi_88).
